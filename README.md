@@ -8,9 +8,11 @@ node client.js
 
 2. Serial Asynchronous Mapping
   cd mapAsyncSeries
+
   node client.js
 
 3. Limited Parallel Mapping
   cd mapAsyncLimit 
+
   node client.js
 
